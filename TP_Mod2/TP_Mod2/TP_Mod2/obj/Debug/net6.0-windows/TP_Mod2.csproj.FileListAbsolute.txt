@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\TP_Mod2\TP_Mod2\bin\Debug\net6.0-windows\TP_Mod2.exe
+C:\Users\ASUS\source\repos\TP_Mod2\TP_Mod2\bin\Debug\net6.0-windows\TP_Mod2.deps.json
+C:\Users\ASUS\source\repos\TP_Mod2\TP_Mod2\bin\Debug\net6.0-windows\TP_Mod2.runtimeconfig.json
+C:\Users\ASUS\source\repos\TP_Mod2\TP_Mod2\bin\Debug\net6.0-windows\TP_Mod2.dll
+C:\Users\ASUS\source\repos\TP_Mod2\TP_Mod2\bin\Debug\net6.0-windows\TP_Mod2.pdb
+C:\Users\ASUS\source\repos\TP_Mod2\TP_Mod2\obj\Debug\net6.0-windows\TP_Mod2.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\TP_Mod2\TP_Mod2\obj\Debug\net6.0-windows\TP_Mod2.Form1.resources
+C:\Users\ASUS\source\repos\TP_Mod2\TP_Mod2\obj\Debug\net6.0-windows\TP_Mod2.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\TP_Mod2\TP_Mod2\obj\Debug\net6.0-windows\TP_Mod2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\TP_Mod2\TP_Mod2\obj\Debug\net6.0-windows\TP_Mod2.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\TP_Mod2\TP_Mod2\obj\Debug\net6.0-windows\TP_Mod2.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\TP_Mod2\TP_Mod2\obj\Debug\net6.0-windows\TP_Mod2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\TP_Mod2\TP_Mod2\obj\Debug\net6.0-windows\TP_Mod2.dll
+C:\Users\ASUS\source\repos\TP_Mod2\TP_Mod2\obj\Debug\net6.0-windows\refint\TP_Mod2.dll
+C:\Users\ASUS\source\repos\TP_Mod2\TP_Mod2\obj\Debug\net6.0-windows\TP_Mod2.pdb
+C:\Users\ASUS\source\repos\TP_Mod2\TP_Mod2\obj\Debug\net6.0-windows\TP_Mod2.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\TP_Mod2\TP_Mod2\obj\Debug\net6.0-windows\ref\TP_Mod2.dll
