@@ -1,0 +1,17 @@
+E:\kuliah\KPL Praktikum\Modul2_1302204078\Modul2_1302204078\bin\Debug\net6.0-windows\Modul2_1302204078.exe
+E:\kuliah\KPL Praktikum\Modul2_1302204078\Modul2_1302204078\bin\Debug\net6.0-windows\Modul2_1302204078.deps.json
+E:\kuliah\KPL Praktikum\Modul2_1302204078\Modul2_1302204078\bin\Debug\net6.0-windows\Modul2_1302204078.runtimeconfig.json
+E:\kuliah\KPL Praktikum\Modul2_1302204078\Modul2_1302204078\bin\Debug\net6.0-windows\Modul2_1302204078.dll
+E:\kuliah\KPL Praktikum\Modul2_1302204078\Modul2_1302204078\bin\Debug\net6.0-windows\Modul2_1302204078.pdb
+E:\kuliah\KPL Praktikum\Modul2_1302204078\Modul2_1302204078\obj\Debug\net6.0-windows\Modul2_1302204078.csproj.AssemblyReference.cache
+E:\kuliah\KPL Praktikum\Modul2_1302204078\Modul2_1302204078\obj\Debug\net6.0-windows\Modul2_1302204078.Form1.resources
+E:\kuliah\KPL Praktikum\Modul2_1302204078\Modul2_1302204078\obj\Debug\net6.0-windows\Modul2_1302204078.csproj.GenerateResource.cache
+E:\kuliah\KPL Praktikum\Modul2_1302204078\Modul2_1302204078\obj\Debug\net6.0-windows\Modul2_1302204078.GeneratedMSBuildEditorConfig.editorconfig
+E:\kuliah\KPL Praktikum\Modul2_1302204078\Modul2_1302204078\obj\Debug\net6.0-windows\Modul2_1302204078.AssemblyInfoInputs.cache
+E:\kuliah\KPL Praktikum\Modul2_1302204078\Modul2_1302204078\obj\Debug\net6.0-windows\Modul2_1302204078.AssemblyInfo.cs
+E:\kuliah\KPL Praktikum\Modul2_1302204078\Modul2_1302204078\obj\Debug\net6.0-windows\Modul2_1302204078.csproj.CoreCompileInputs.cache
+E:\kuliah\KPL Praktikum\Modul2_1302204078\Modul2_1302204078\obj\Debug\net6.0-windows\Modul2_1302204078.dll
+E:\kuliah\KPL Praktikum\Modul2_1302204078\Modul2_1302204078\obj\Debug\net6.0-windows\refint\Modul2_1302204078.dll
+E:\kuliah\KPL Praktikum\Modul2_1302204078\Modul2_1302204078\obj\Debug\net6.0-windows\Modul2_1302204078.pdb
+E:\kuliah\KPL Praktikum\Modul2_1302204078\Modul2_1302204078\obj\Debug\net6.0-windows\Modul2_1302204078.genruntimeconfig.cache
+E:\kuliah\KPL Praktikum\Modul2_1302204078\Modul2_1302204078\obj\Debug\net6.0-windows\ref\Modul2_1302204078.dll
